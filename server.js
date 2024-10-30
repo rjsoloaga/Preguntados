@@ -53,7 +53,3 @@ app.get('/historico', (req, res) => {
 app.listen(5500, () => {
   console.log('Servidor corriendo en el puerto 5500');
 });
-
-
-
-
